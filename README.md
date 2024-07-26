@@ -1,7 +1,7 @@
 Web Scraping Project
 Overview
 This project is a simple web scraping application that extracts product information from Flipkart. The data is saved into both an HTML file and a CSV file.
-
+ 
 Project Description
 Objective: Scrape product information for "iPhone" from Flipkart and save the results.
 Technologies Used: Python, Requests, BeautifulSoup, CSV
